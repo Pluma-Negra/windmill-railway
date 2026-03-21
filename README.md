@@ -26,4 +26,4 @@ For more information, visit the [official Windmill documentation](https://docs.w
 
 ---
 
-**Developed by [Pluma Negra](https://plumanegra.com.mx)**
+**</> with ♥ by [Pluma Negra](https://plumanegra.com.mx)**
