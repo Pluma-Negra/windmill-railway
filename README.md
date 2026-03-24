@@ -2,6 +2,9 @@
 
 Quick deployment of **Windmill** on Railway. Automate workflows, scripts and APIs with no code.
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/F9LAoy?referralCode=8m8zpY&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+
 ## What is Windmill?
 
 Windmill is an open-source platform for automating and orchestrating workflows. Run scripts, create APIs and automate processes without writing boilerplate code.

@@ -1,4 +1,4 @@
-FROM ghcr.io/windmill-labs/windmill:latest
+FROM ghcr.io/windmill-labs/windmill-full:1.662
 
 ENV PORT=8080
 ENV RUST_LOG=info
